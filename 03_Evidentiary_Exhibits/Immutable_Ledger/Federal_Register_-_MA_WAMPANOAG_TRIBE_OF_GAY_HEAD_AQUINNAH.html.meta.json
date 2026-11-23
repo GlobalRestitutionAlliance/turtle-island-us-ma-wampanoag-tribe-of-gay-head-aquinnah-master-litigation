@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MA+WAMPANOAG+TRIBE+OF+GAY+HEAD+AQUINNAH",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MA+WAMPANOAG+TRIBE+OF+GAY+HEAD+AQUINNAH",
+  "title": "Federal Register - MA WAMPANOAG TRIBE OF GAY HEAD AQUINNAH",
+  "fetched_at": "2026-11-23T17:33:50.926408Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 264714,
+  "sha256": "b2c50a5a0e22f9bfe419ae73e6da81ed2bc7376dc74dc9062e4a9b46e5e7c573",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
